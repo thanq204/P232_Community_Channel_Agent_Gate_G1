@@ -5,7 +5,7 @@
 | Thuộc tính | Nội dung |
 |---|---|
 | Tên sản phẩm | Community Channel Agent |
-| Mã đề tài | P-232 |
+| Mã đề tài | CHAT-10 |
 | Vai trò | Member, Admin |
 | Nền tảng | Web responsive |
 | Mục tiêu | Hỗ trợ moderation, FAQ, tương tác và vận hành kênh |

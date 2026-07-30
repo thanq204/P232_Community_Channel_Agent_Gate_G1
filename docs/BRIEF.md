@@ -2,7 +2,7 @@
 
 ## Community Channel Agent – AI quản lý cộng đồng / kênh
 
-**Mã đề tài:** P-232  
+**Mã đề tài:** CHAT-10  
 **Loại hệ thống:** AI Agent + Human-in-the-loop  
 **Vai trò:** Member và Admin
 
